@@ -1,0 +1,43 @@
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="escuela.html" resolutions="1x" timestamp="1713662244314">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-p_g_-maestra.css" crc="3810077009" ref="noticias:educacion:index:biblioteca:eventos:conocenos"/>
+    <file name="noticias.css" crc="4095445491" ref="noticias"/>
+    <file name="educacion.css" crc="4095445491" ref="educacion"/>
+    <file name="index.css" crc="3962972732" ref="index"/>
+    <file name="biblioteca.css" crc="4095445491" ref="biblioteca"/>
+    <file name="eventos.css" crc="4095445491" ref="eventos"/>
+    <file name="conocenos.css" crc="4095445491" ref="conocenos"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:conocenos:educacion:eventos:noticias:biblioteca"/>
+    <file name="museutils.js" crc="163421577" ref="index:conocenos:educacion:eventos:noticias:biblioteca"/>
+    <file name="whatinput.js" crc="86476730" ref="index:conocenos:educacion:eventos:noticias:biblioteca"/>
+    <file name="museconfig.js" crc="168988563" ref="index:conocenos:educacion:eventos:noticias:biblioteca"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="index:conocenos:educacion:eventos:noticias:biblioteca"/>
+    <file name="webpro.js" crc="3848665353" ref="index"/>
+    <file name="musewpslideshow.js" crc="4041717617" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="36492500" ref="index"/>
+    <file name="touchswipe.js" crc="404375771" ref="index"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:conocenos:educacion:eventos:noticias:biblioteca"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:conocenos:educacion:eventos:noticias:biblioteca"/>
+    <file name="require.js" crc="244322403" ref="index:conocenos:educacion:eventos:noticias:biblioteca"/>
+  </folder>
+  <folder name="images">
+    <file name="texture_grey_579261_1280x800.jpg" crc="4123034227" ref="index:conocenos:educacion:eventos:noticias:biblioteca"/>
+    <file name="arrowmenudown.png" crc="262559161" ref="index"/>
+    <file name="125921-7e477319-7aa9-4804-a0ca-8ac2324947f1-crop-u637.jpg" crc="24650976" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="personas-biblio-scaled-76d79bcf-crop-u821.jpg" crc="325196766" ref="index"/>
+    <file name="sege2-crop-u847.jpg" crc="81300683" ref="index"/>
+    <file name="set_5682-scaled-6cc782c9-crop-u873.jpg" crc="4125522195" ref="index"/>
+    <file name="205005-41ce3616-2278-493d-9eef-5a3fdf204796-crop-u940.jpg" crc="4166969231" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4292933086" seo="true" mt="1710034515784" redirect="true"/>
+  <file name="conocenos.html" crc="480351195" seo="true" mt="1710034515784" redirect="true"/>
+  <file name="educacion.html" crc="3967326740" seo="true" mt="1710034515784" redirect="true"/>
+  <file name="eventos.html" crc="403094201" seo="true" mt="1710034515784" redirect="true"/>
+  <file name="noticias.html" crc="307772501" seo="true" mt="1710034515784" redirect="true"/>
+  <file name="biblioteca.html" crc="3863654696" seo="true" mt="1710034515784" redirect="true"/>
+</manifest>
